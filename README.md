@@ -1,5 +1,4 @@
-# Git-and-GitHub-Project
-Introduction to: Git and GitHub
+# Git-and-GitHub-Project - Introduction to: Git and GitHub
 
 Please consider the below factors while contributing
 
